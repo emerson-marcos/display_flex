@@ -21,3 +21,11 @@ _______________________________________________
 <link rel="stylesheet" href="style.css"> <!-- OS DEMAIS ARQUIVOS DE ESTILIZAÇÃO PODE VIR DEPOIS DESSES DOIS DE CIMA -->
 
 # TEM UM EXEMPLO DESSE NO index.html principal
+
+
+
+# LINK DO PROJETO NO FIGMA
+https://www.figma.com/file/4JOItmEYzgjggvWSdl0vKX/ESTUDO-HTML?node-id=1%3A22
+
+# LINK DO CONTEUDO DO DISPLAY FLEX
+https://origamid.com/projetos/flexbox-guia-completo/
