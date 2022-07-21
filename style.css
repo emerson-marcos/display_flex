@@ -1,0 +1,5 @@
+/* EXEMPLOS DE CHAMADA DOS VALORES DE root.css */
+.teste {
+    color: var(--roxo);
+    font-size: var(--tamanho-padrao-fonte);
+}

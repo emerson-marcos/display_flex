@@ -1,0 +1,9 @@
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none; 
+}
+
+/* aqui pode ir adicionando outras propriedades paras as tags serem inicializadas com esses valores */
