@@ -8,11 +8,11 @@
     color: var(--azul);
     font-size: var(--tamanho-padrao-fonte);
     position: absolute;
-    width: 233px;
-    height: 30px;
-    left: 32px;
-    top: 66px;
-    line-height: 30px;
+    width: 14.56rem;
+    height: 1.87rem;
+    left: 2rem;
+    top: 4.12rem;
+    line-height: 1.87rem;
 }
 
 .texto,
@@ -20,17 +20,17 @@
     color: var(--azulescuro);
     font-size: var(--tamanho-padrao-fonte);
     position: absolute;
-    width: 155px;
-    height: 24px;
-    left: 30px;
-    top: 157px;
-    line-height: 24px;
+    width: 9.68rem;
+    height: 1.5rem;
+    left: 1.87rem;
+    top: 9.81rem;
+    line-height: 1.5rem; /*1.5rem igual a 24px*/
 }
 
 .texto1{
-    width: 137px;
-    height: 24px;
-    left: 30px;
-    top: 201px;
-    line-height: 24px;
+    width: 18.56rem;
+    height: 1.5rem;
+    left: 1.80rem;
+    top: 12.56rem;
+    line-height: 1.5rem;
 }
