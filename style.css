@@ -3,3 +3,34 @@
     color: var(--roxo);
     font-size: var(--tamanho-padrao-fonte);
 }
+
+.h1{
+    color: var(--azul);
+    font-size: var(--tamanho-padrao-fonte);
+    position: absolute;
+    width: 233px;
+    height: 30px;
+    left: 32px;
+    top: 66px;
+    line-height: 30px;
+}
+
+.texto,
+.texto1{
+    color: var(--azulescuro);
+    font-size: var(--tamanho-padrao-fonte);
+    position: absolute;
+    width: 155px;
+    height: 24px;
+    left: 30px;
+    top: 157px;
+    line-height: 24px;
+}
+
+.texto1{
+    width: 137px;
+    height: 24px;
+    left: 30px;
+    top: 201px;
+    line-height: 24px;
+}

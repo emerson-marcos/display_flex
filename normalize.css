@@ -9,5 +9,6 @@ ul {
 h1{
     font-family: 'Inter';
     text-transform: uppercase;
+    font-style: normal;
 }
 /* aqui pode ir adicionando outras propriedades paras as tags serem inicializadas com esses valores */
